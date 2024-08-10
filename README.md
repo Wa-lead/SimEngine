@@ -1,4 +1,4 @@
-# README for Similarity Engine Project
+# SimEngine
 
 ## Overview
 
